@@ -1,8 +1,8 @@
 HTML Exercise 1
 Create a simple webpage that includes:
-- A heading  
-- A paragraph  
-- An image  
-- A link to Google  
+- A heading (<h1>)
+- A paragraph (<p>)
+- An image (<img>)
+- A link to Google (<a>) 
 
 Place your file in this folder.
