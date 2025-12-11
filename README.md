@@ -22,7 +22,7 @@ cd <repository-name>
 ## 3️⃣ Sync with the Original Repository (Upstream)
 This keeps your fork updated with the mentor's repository.
 
-git remote add upstream https://github.com/YOUR-USERNAME/mentoring-repo.git
+git remote add upstream https://github.com/elaheShoja/mentoring.git
 
 git fetch upstream
 git checkout main
